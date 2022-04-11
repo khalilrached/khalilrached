@@ -1,5 +1,12 @@
-# this.render()
-<img src="https://tenor.com/view/hello-world-gif-8818015">
+
+<div align="center">
+<img height="300px" src="https://c.tenor.com/M2KYza3mmcoAAAAC/hello-world.gif">
+</div>
+
+<h1 align="center">
+  Hello World
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ``` bash
   Name: Khalil Rached
