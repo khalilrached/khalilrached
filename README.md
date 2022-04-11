@@ -11,11 +11,11 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilrached&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  <style>
-    #stats{
-      display:flex;
-      gap:20px
-    }
-  </style>
+<style>
+  #stats{
+    display:flex;
+    gap:20px
+  }
+</style>
 
 </div>
