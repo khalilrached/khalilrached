@@ -1,1 +1,6 @@
-# this.render-
+# this.me()
+<div>
+  ### :fire: STATS :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilrached&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
