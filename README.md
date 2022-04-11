@@ -5,11 +5,11 @@
   <a href="https://www.youtube.com/channel/UCCFDt4INiyPqz9oQOZ-8tjA/featured"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://twitter.com/k_v__l"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<div align="center">
 
-  ---
-  ### :fire: STATS :
-  ---
+
+#
+### :fire: STATS :
+
 <div align="left" id="stats">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilrached&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -18,4 +18,4 @@
 </div>
 
 
-</div>
+
