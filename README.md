@@ -4,12 +4,9 @@
 * 🌱 I'm currently learning: 
 `DevSecOps` `IT-security`.
 * 📍 Location : Tunisia  🌍🇹🇳.
-* ⌨️ Familiar Dev-Technologies: <br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mysql,postgres,mongo,spring,angular,tailwind,javascript,typescript,java,html,css)](https://github.com/khalilrached)
-* 🔧 Development Tools: <br>
-[![My Skills](https://skillicons.dev/icons?i=docker,vscode,idea)](https://github.com/khalilrached)
-* 👨‍💻 Version Control: <br>
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/khalilrached)
+* ⌨️ Familiar Dev-Technologies: `nodejs` `react` `redux` `express` `mysql` `postgres` `mongo` `spring-boot` `angular` `tailwind` `javascript` `typescript` `java` `html` `css`
+* 🔧 Development Tools: `docker` `vscode` `idea`
+* 👨‍💻 Version Control: `git` `github`
 * 💻 Familiar OS: <br>
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://github.com/khalilrached)
 [![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalil-linux&logoColor=white)](https://github.com/khalilrached)
