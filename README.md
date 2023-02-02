@@ -1,37 +1,37 @@
+## Hi 👋, Khalil here
+### A passionate Software-Engineer motivated to explore more about IT and software development.
+* 👷‍♂️ I'm currently working on: [`conceptr-cli`](https://github.com/khalilrached/conceptr-cli), `BeFast`.
+* 🌱 I'm currently learning: 
+`DevSecOps` `IT-security`.
+* 📍 Location : Tunisia  🌍🇹🇳.
+* ⌨️ Familiar Dev-Technologies: <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,express,mysql,postgres,mongo,spring,angular,tailwind,javascript,typescript,java,html,css)](https://github.com/khalilrached)
+* 🔧 Development Tools: <br>
+[![My Skills](https://skillicons.dev/icons?i=docker,vscode,idea)](https://github.com/khalilrached)
+* 👨‍💻 Version Control: <br>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://github.com/khalilrached)
+* 💻 Familiar OS: <br>
+[![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://github.com/khalilrached)
+[![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalil-linux&logoColor=white)](https://github.com/khalilrached)
+[![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalilrached)
+## 🌟 Links :
+* ### Social Media :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rached-khalil-449538160/)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ez.coding)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/k_v__l)
+* ### Support Me:
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/khalilrached)
+[![BuyMeCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khalilrached)
 
-:wave: Khalil Rached<br/>
-:computer: Software-Engineer / Fullstack-JS Web-Developer<br/>
-:house: Tunisia<br/>
+## 📈 My Stats :
 
-## :hammer_and_wrench: My Tools :
+* Top Lang:
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilrached&layout=compact&count_private=true&theme=dark&hide=html,twig,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
-</div>
+* GitHub Stats
+### ![khalilrached's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilrached&show_icons=true&theme=gruvbox)
 
-## :star: Links :
-<div id="badges">
-  //https://www.buymeacoffee.com/khalilrached
-  <a href="https://www.linkedin.com/in/rached-khalil-449538160/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.youtube.com/@ez.coding"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://twitter.com/k_v__l"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-</div>
-
-## :chart_with_upwards_trend: My Stats :
-### Top Lang: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilrached&layout=compact&count_private=true&theme=dark&hide=html,twig,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-### GitHub Stats
-![khalilrached's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilrached&show_icons=true&theme=gruvbox)
-### :fire:  Streak:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilrached&theme=dark&background=000000)](https://git.io/streak-stats)
+* 🔥  Streak:
+### [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalilrached&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
