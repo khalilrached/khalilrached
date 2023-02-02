@@ -6,10 +6,7 @@ A passionate Software-Engineer motivated to explore more about IT and software d
 * ⌨️ Familiar Dev-Technologies: `nodejs` `react` `redux` `express` `mysql` `postgres` `mongo` `spring-boot` `angular` `tailwind` `javascript` `typescript` `java` `html` `css` .
 * 🔧 Development Tools: `docker` `vscode` `idea` .
 * 👨‍💻 Version Control: `git` `github` .
-* 💻 Familiar OS: <br>
-[![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://github.com/khalilrached)
-[![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalil-linux&logoColor=white)](https://github.com/khalilrached)
-[![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/khalilrached)
+* 💻 Familiar OS: `Ubuntu` `Kali-Linux` `Windows` .
 ### 🌟 Links :
 * Social Media :
 
