@@ -15,7 +15,7 @@ A passionate Software-Engineer motivated to explore more about IT and software d
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/k_v__l)
 * Support Me:
 <!--[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/khalilrached)-->
-[![BuyMeCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khalilrached)
+<!--[![BuyMeCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khalilrached)
 <!--
 ## 📈 My Stats :
 
