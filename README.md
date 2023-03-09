@@ -21,8 +21,10 @@ A passionate Software-Engineer motivated to explore more about IT and software d
 ## 📈 My Stats :
 
 * Top Lang:
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilrached&layout=compact&count_private=true&theme=dark&hide=html,twig,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+### :top: Top langs :
+[![Top Langs](https://github-readme-stats-fe891ud7v-khalilrached.vercel.app/api/top-langs/?username=khalilrached&layout=compact&count_private=true&theme=dark&hide=html,twig,css,php&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 * GitHub Stats
 ### ![khalilrached's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilrached&show_icons=true&theme=gruvbox)
 
