@@ -1,5 +1,5 @@
 ### Hi 👋, Khalil here
-A passionate Software-Engineer motivated to explore more about IT and software development.
+A passionate Software-Engineer student motivated to explore more about IT and software development.
 * 👷‍♂️ I'm currently working on: [`conceptr-cli`](https://github.com/khalilrached/conceptr-cli) `BeFast`.
 * 🌱 I'm currently learning: `DevSecOps` `IT-security` .
 * 📍 Location : Tunisia  🌍🇹🇳.
