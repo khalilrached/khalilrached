@@ -1,19 +1,21 @@
 ### Hi 👋, Khalil here
 A passionate Software-Engineer student motivated to explore more about IT and software development.
+<!--
 * 👷‍♂️ I'm currently working on: [`conceptr-cli`](https://github.com/khalilrached/conceptr-cli) `BeFast`.
 * 🌱 I'm currently learning: `DevSecOps` `IT-security` .
+-->
 * 📍 Location : Tunisia  🌍🇹🇳.
 * ⌨️ Familiar Dev-Technologies: `nodejs` `react` `redux` `express` `mysql` `postgres` `mongo` `spring-boot` `angular` `tailwind` `javascript` `typescript` `java` `html` `css` .
 * 🔧 Development Tools: `docker` `vscode` `idea` .
 * 👨‍💻 Version Control: `git` `github` .
 * 💻 Familiar OS: `Ubuntu` `Kali-Linux` `Windows` .
-<!--
 ### 🌟 Links :
 * Social Media :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rached-khalil-449538160/)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ez.coding)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/k_v__l)
+<!--
 <!--* Support Me:
 <!--[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/khalilrached)-->
 <!--[![BuyMeCoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khalilrached)
